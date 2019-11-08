@@ -1,8 +1,8 @@
 {
-  "name": "mpvue-cnode",
+  "name": "mpvue-huipu",
   "version": "1.0.0",
-  "description": "cnode developed by mp-vue",
-  "author": "tanjiahui <673800357@qq.com>",
+  "description": "",
+  "author": "xuyu",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
